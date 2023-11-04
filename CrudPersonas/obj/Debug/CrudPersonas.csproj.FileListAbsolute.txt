@@ -1,0 +1,20 @@
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\bin\Debug\CrudPersonas.exe.config
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\bin\Debug\CrudPersonas.exe
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\bin\Debug\CrudPersonas.pdb
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.csproj.AssemblyReference.cache
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.Form1.resources
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.Properties.Resources.resources
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.csproj.GenerateResource.cache
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.exe
+C:\Users\Cesar Cerda\Desktop\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.pdb
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\bin\Debug\CrudPersonas.exe.config
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\bin\Debug\CrudPersonas.exe
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\bin\Debug\CrudPersonas.pdb
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.csproj.AssemblyReference.cache
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.Form1.resources
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.Properties.Resources.resources
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.csproj.GenerateResource.cache
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.exe
+C:\Users\Cesar Cerda\Desktop\Nueva carpeta\CrudPersonas\CrudPersonas\obj\Debug\CrudPersonas.pdb
